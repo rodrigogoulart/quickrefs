@@ -1,0 +1,1 @@
+Este repositório tem por objetivo compartilhar 📖 guias de referência rápida (quick refs) de linguanges de programação que leciono. Espero que seja útil para estudantes e professores. Contribuições são bem-vindas. 🙂
